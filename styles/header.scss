@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap');
+
+header {
+    a {
+        text-decoration: none;
+        text-align: right;
+        margin-right: 0;
+        padding-right: 0;
+        color: rgb(116, 116, 116);
+    }
+
+    h1 {
+        font-family: 'Cinzel';
+        margin: 0.5rem 0;
+        text-align: right;
+
+        a {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+        }
+    }
+}
